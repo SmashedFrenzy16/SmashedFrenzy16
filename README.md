@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning at school
-- 👯 I’m looking to collaborate on repositories I wanted
+- 👯 I’m looking to collaborate on a lot of repositories
 - 🤔 I’m looking for help with lot of things.
 - 💬 Ask me about READMEs
 - 📫 How to reach me: On GitHub
