@@ -13,6 +13,8 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I like commiting projects on GitHub!
 
+### Follow me ✨
+
 - Follow me on Google+: https://plus.google.com/+RayyanTaha
 - Follow me on GitHub: https://github.com/SmashedFrenzy16
 - Check out my website: https://netfruittechnologies.wordpress.com
