@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on open source projects
-- 🌱 I’m currently learning at school
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on a lot of repositories
 - 🤔 I’m looking for help with general GitHub features
 - 💬 Ask me about READMEs
