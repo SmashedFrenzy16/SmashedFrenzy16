@@ -20,4 +20,5 @@
 - View me and like my posts on Adobe Behance: https://www.behance.net/rayyantaha
 - Check out my website: https://netfruittechnologies.wordpress.com
 - Check out my blog: https://netfruittechnologies.blogspot.com
+- Check out and sign up to my forum: https://netfruittechnologies.forumotion.com/
 - Subscribe to my feed: https://feeds.feedburner.com/NetFruitTechnologies
