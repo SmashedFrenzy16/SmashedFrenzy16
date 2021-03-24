@@ -22,3 +22,4 @@
 - Check out my blog: https://netfruittechnologies.blogspot.com
 - Check out and sign up to my forum: https://netfruittechnologies.forumotion.com/
 - Subscribe to my feed: https://feeds.feedburner.com/NetFruitTechnologies
+- Follow me on Xbox by searching my Gamertag "Joe Rakeford".
