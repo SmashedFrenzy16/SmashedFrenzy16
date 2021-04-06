@@ -13,6 +13,8 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I like commiting projects on GitHub!
 
+Note: I will be making blender addons soon!
+
 ### Follow me ✨
 
 - Follow me on Google+: https://plus.google.com/+RayyanTaha
