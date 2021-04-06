@@ -13,6 +13,8 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I like commiting projects on GitHub!
 
+What's New: I am introducing SmashedFrenzy16 Studios outside of NetFruit Technologies! SmashedFrenzy16 Studios
+
 Note: I will be making blender addons soon!
 
 ### Follow me ✨
