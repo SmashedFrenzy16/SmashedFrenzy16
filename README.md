@@ -32,6 +32,7 @@ Note: I will be making blender addons soon!
 
 
 <div align="center">
+  
 <sup>Best viewed with:</sup><br />![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
 <br />![Netscape](https://user-images.githubusercontent.com/68993968/113916671-27b78200-97d8-11eb-9496-1c45ce25568e.gif)
 
