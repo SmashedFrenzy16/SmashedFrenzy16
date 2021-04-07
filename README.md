@@ -37,3 +37,11 @@ Note: I will be making blender addons soon!
 
 </div>
 
+<A HREF="http://home.netscape.com/index.html">
+
+                    <IMG SRC="now_bu.gif" ALIGN="texttop" 
+
+                    ALT="Netscape Now">
+
+</A>
+
