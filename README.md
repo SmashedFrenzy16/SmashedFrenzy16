@@ -33,20 +33,8 @@ Note: I will be making blender addons soon!
 
 <div align="center">
 
-<sup>Best viewed with:</sup><br />![Microsoft Internet Explorer](https://www.microsoft.com/en-us/download/details.aspx?id=41628)
+<sup>Best viewed with:</sup><br />![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
 
 </div>
 
-<A HREF="http://home.netscape.com/index.html">Download
 
-</A>Netscape Navigator now!
-
-
-
-<A HREF="http://home.netscape.com/index.html">
-
-  <IMG SRC="now_bu.gif" ALIGN="texttop" 
-
-  ALT="Netscape Now">
-
-</A>
