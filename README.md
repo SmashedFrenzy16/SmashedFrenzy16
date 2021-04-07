@@ -47,6 +47,6 @@ Note: I will be making blender addons soon!
 
   <IMG SRC="now_bu.gif" ALIGN="texttop" 
 
-   ALT="Netscape Now">
+  ALT="Netscape Now">
 
 </A>
