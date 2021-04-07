@@ -34,7 +34,7 @@ Note: I will be making blender addons soon!
 <div align="center">
 
 <sup>Best viewed with:</sup><br />![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
-<img src="assets/img/netscape.gif" alt="Netscape rules! IE drools!">
+<img src="file:///home/chronos/u-861f8e694b40cbb726e3137ef04b34021ec8ed12/MyFiles/Downloads/netscape.gif" alt="Download NetScape Navigator 3.0!">
 </div>
 
 
