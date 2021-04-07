@@ -17,6 +17,9 @@ What's New: I am introducing SmashedFrenzy16 Studios outside of NetFruit Technol
 
 Note: I will be making blender addons soon!
 
+
+
+
 ### Follow me ✨
 
 - Follow me on Google+: https://plus.google.com/+RayyanTaha
@@ -26,3 +29,11 @@ Note: I will be making blender addons soon!
 - Check out my blog: https://netfruittechnologies.blogspot.com
 - Check out and sign up to my forum: https://netfruittechnologies.forumotion.com/
 - Subscribe to my feed: https://feeds.feedburner.com/NetFruitTechnologies
+
+
+<div align="center">
+
+<sup>Best viewed with:</sup><br />![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
+
+</div>
+
