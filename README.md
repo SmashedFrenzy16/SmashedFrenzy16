@@ -6,12 +6,12 @@
 
 - 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on a lot of repositories
-- 🤔 I’m looking for help with general GitHub features
-- 💬 Ask me about READMEs
-- 📫 How to reach me: On GitHub
+- 👯 I’m looking to collaborate with everything on GitHub
+- 🤔 I’m looking for help with advanced GitHub features
+- 💬 Ask me about READMEs and I could be able to help you.
+- 📫 How to reach me: On GitHub and Google+
 - 😄 Pronouns: He
-- ⚡ Fun fact: I look for the best opportunity of developing!
+- ⚡ Fun fact: I look for the best opportunity of developing and I have got my website if you need support!
 
 What's New: I am introducing SmashedFrenzy16 Studios outside of NetFruit Technologies!
 
