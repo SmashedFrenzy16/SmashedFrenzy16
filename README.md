@@ -16,6 +16,7 @@
 What's New: I am introducing SmashedFrenzy16 Studios outside of NetFruit Technologies!
 
 Note: I will be making Blender addons soon!
+Note: Python Modules coming extremely soon!
 
 
 
