@@ -30,7 +30,7 @@ Note: Python Modules coming extremely soon!
 - Check out my blog: https://netfruittechnologies.blogspot.com
 - Check out and sign up to my forum: https://netfruittechnologies.forumotion.com/
 - Subscribe to my feed: https://feeds.feedburner.com/NetFruitTechnologies
-- Subscribe to my Youtube channel: https://www.youtube.com/channel/UCL3NxZAIHkvJQiejqeM5_Mg
+- Subscribe to my Youtube channel: https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1
 
 
 <div align="center">
