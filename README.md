@@ -32,6 +32,7 @@ Note: I will be making Blender addons soon!
 - Check out and sign up to my forum: https://netfruittechnologies.forumotion.com/
 - Subscribe to my feed: https://feeds.feedburner.com/NetFruitTechnologies
 - Subscribe to my Youtube channel: https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1
+- Check out my Github Gist profile: https://gist.github.com/SmashedFrenzy16
 
 
 <div align="center">
