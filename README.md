@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning Python
-- ✨ I’m looking to collaborate with everything on GitHub
-- 🤔 I’m looking for help with advanced GitHub features
+- ✨ I’m looking for the best Python opportunities on Github, as well as contributing to common Github projects.
+- 🤔 I’m looking for help with advanced GitHub and advanced Python features
 - 💬 Ask me about READMEs and I could be able to help you.
 - 📫 How to reach me: On GitHub and Google+
 - 😄 Pronouns: He
