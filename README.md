@@ -13,9 +13,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I look for the best opportunity of developing and I have got my website if you need support!
 
-What's New: I am introducing SmashedFrenzy16 Studios outside of NetFruit Technologies!
-
-What's New and Hot: Python modules are here!
+What's New: Donut Emulator is out!
 
 Note: I will be making Blender addons soon!
 
