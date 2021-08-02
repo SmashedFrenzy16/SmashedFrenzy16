@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python
 - ✨ I’m looking for the best Python opportunities on Github, as well as contributing to common Github projects.
 - 🤔 I’m looking for help with advanced GitHub and advanced Python features
-- 💬 Ask me about READMEs and I could be able to help you.
+- 💬 Ask me about READMEs and a bit of Python. I could be able to help you.
 - 📫 How to reach me: On GitHub and Google+
 - 😄 Pronouns: He
 - ⚡ Fun fact: I look for the best opportunity of developing and I have got my website if you need support!
