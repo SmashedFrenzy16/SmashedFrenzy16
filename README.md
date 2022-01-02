@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi Everyone, welcome to my personal GitHub Page! 👋
 
 <!--
 **SmashedFrenzy16/SmashedFrenzy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+### About Me
+
+My name is SmashedFrenzy16. I joined GitHub in 2020, and started my path to creating all sorts of projects that I could make for the rest of the world. I mostly work in Python and HTML, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. CodeMaster7000 and I have been collaborating to further improve the way you use your computers. Today, after quite a bit of time on open-source coding, I have started to update my GitHub page more regularly. All of my projects are here to help you.
+
+### What am I currently up to?
 
 - 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning Python
@@ -12,6 +18,8 @@
 - 📫 How to reach me: On GitHub and Google+
 - 😄 Pronouns: He
 - ⚡ Fun fact: I look for the best opportunity of developing and I have got my website if you need support!
+
+### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
 What's New: Donut Emulator is out!
 
