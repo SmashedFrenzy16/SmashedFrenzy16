@@ -10,10 +10,10 @@ Hello everyone! My name is SmashedFrenzy16. I joined GitHub on July 30th 2020, a
 
 ### Other things about me
 
-- 🔭 I’m currently working on open source projects
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on open source projects coded in Languages such as Python, HTML, CSS, JavaScript and maybe in the future C.
+- 🌱 I’m currently learning Python and JavaScript.
 - ✨ I’m looking for the best Python opportunities on Github, as well as contributing to common Github projects.
-- 🤔 I’m looking for help with advanced GitHub and advanced Python features
+- 🤔 I’m looking for help with advanced GitHub and advanced Python features as well as beginner and intermediate JavaScript. 
 - 💬 Ask me about READMEs, a bit of  general Python and the turtle module. I could be able to help you.
 - 📫 How to reach me: On [GitHub](https://github.com/SmashedFrenzy16) and [Google+](https://plus.google.com/+RayyanTaha)
 - 😄 Pronouns: He
