@@ -14,14 +14,14 @@ Hello everyone! My name is SmashedFrenzy16. I joined GitHub on July 30th 2020, a
 - 🌱 I’m currently learning Python and JavaScript.
 - ✨ I’m looking for the best Python opportunities on Github, as well as contributing to common Github projects.
 - 🤔 I’m looking for help with advanced GitHub and advanced Python features as well as beginner and intermediate JavaScript. 
-- 💬 Ask me about READMEs, a bit of  general Python and the turtle module. I could be able to help you.
+- 💬 Ask me about READMEs, a bit of general Python, the turtle module, the basics of the tkinter module and basic Blender. I might be able to help you.
 - 📫 How to reach me: On [GitHub](https://github.com/SmashedFrenzy16) and [Google+](https://plus.google.com/+RayyanTaha)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I look for the best opportunity of developing and I have got my website if you need support!
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
-What's New: InvenMain is in developement and Blender addons developement has started!
+What's New: InvenMania is in developement and Blender addons developement has started!
 
 Note: I will also start developement of HTML, CSS and JavaScript.
 
