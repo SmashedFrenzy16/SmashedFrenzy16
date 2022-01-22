@@ -21,11 +21,9 @@ Hello everyone! My name is SmashedFrenzy16. I joined GitHub on July 30th 2020, a
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
-What's New: Donut Emulator is out!
+What's New: InvenMain is in developement and Blender addons developement has started!
 
-Note: I will be making Blender addons soon!
-
-Additional Note: I will also start more regular developement of HTML, CSS and JavaScript, plus a new major project is in the making that will come along soon! So stay tuned for that!
+Note: I will also start more regular developement of HTML, CSS and JavaScript, plus a new major project is in the making that will come along soon! So stay tuned for that!
 
 
 
