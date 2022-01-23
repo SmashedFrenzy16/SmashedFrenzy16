@@ -21,6 +21,8 @@ Hello everyone! My name is SmashedFrenzy16. I joined GitHub on July 30th 2020, a
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
+Special News: Thank you all for helping me get to 100 repositories on GitHub! Much appreciated!
+
 What's New: InvenMania is in developement and Blender addons developement has started!
 
 Note: I will also start developement of HTML, CSS and JavaScript.
