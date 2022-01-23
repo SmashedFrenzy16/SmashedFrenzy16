@@ -45,6 +45,10 @@ Note: I will also start developement of HTML, CSS and JavaScript.
 - Check out my GitHub Gist profile: https://gist.github.com/SmashedFrenzy16
 
 
+You are visitor number:
+
+![Visitor Count](https://profile-counter.glitch.me/SmashedFrenzy16/count.svg)
+
 <div align="center">
   
 <sup>Best viewed with:</sup><br />![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
