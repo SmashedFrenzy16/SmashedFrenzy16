@@ -44,6 +44,7 @@ Note: I will also start developement of HTML, CSS and JavaScript.
 - Subscribe to my Youtube channel: https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1
 - Check out my GitHub Gist profile: https://gist.github.com/SmashedFrenzy16
 
+<div align="center">
 
 You are visitor number:
 
