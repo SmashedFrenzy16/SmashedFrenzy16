@@ -10,7 +10,7 @@ Hello everyone! My name is SmashedFrenzy16. I joined GitHub on July 30th 2020, a
 
 ### Other things about me
 
-- 🔭 I’m currently working on open source projects coded in languages such as Python, HTML, CSS, JavaScript and maybe in the future C.
+- 🔭 I’m currently working on open source projects coded in languages such as Python, HTML, CSS, JavaScript and maybe in the future C or C++.
 - 🌱 I’m currently learning Python and JavaScript.
 - ✨ I’m looking for the best Python opportunities on Github, as well as contributing to common Github projects.
 - 🤔 I’m looking for help with advanced GitHub and advanced Python features as well as beginner and intermediate JavaScript. 
