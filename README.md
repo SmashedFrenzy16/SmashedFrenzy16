@@ -4,7 +4,8 @@
 **SmashedFrenzy16/SmashedFrenzy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![SmashedFrenzy16 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
+![SmashedFrenzy16's GiHhub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
+![SmashedFrenzy16's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
 
 ### About Me
 
