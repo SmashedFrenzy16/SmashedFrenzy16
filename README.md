@@ -4,6 +4,8 @@
 **SmashedFrenzy16/SmashedFrenzy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+[GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
+
 ### About Me
 
 Hello everyone! My name is SmashedFrenzy16. I joined GitHub on July 30th 2020, and started my path to creating all sorts of projects that I could make for the rest of the world. I mostly work in Python HTML, CSS and JavaScript, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. CodeMaster7000 and I have been collaborating to further improve the way you use your computers. Today, after quite a bit of time on open-source coding, I have started to update my GitHub page more regularly. All of my projects are here to help you.
