@@ -25,6 +25,13 @@ Hello everyone! My name is SmashedFrenzy16. I joined GitHub on July 30th 2020, a
 - 😄 Pronouns: He
 - ⚡ Fun fact: I look for the best opportunity of developing and I have got my website if you need support!
 
+### Languages and Tools That I Use
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
 Special News: Thank you all for helping me get to 100 repositories on GitHub! Much appreciated!
