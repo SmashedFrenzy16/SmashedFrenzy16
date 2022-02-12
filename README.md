@@ -31,7 +31,8 @@ Hello everyone! My name is SmashedFrenzy16. I joined GitHub on July 30th 2020, a
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img widht="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
