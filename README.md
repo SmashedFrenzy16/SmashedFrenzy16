@@ -13,11 +13,11 @@
 
 ### About Me
 
-Hello everyone! My name is SmashedFrenzy16. I joined GitHub on July 30th 2020, and started my path to creating all sorts of projects that I could make for the rest of the world. I mostly work in Python HTML, CSS and JavaScript, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. CodeMaster7000 and I have been collaborating to further improve the way you use your computers. Today, after quite a bit of time on open-source coding, I have started to update my GitHub page more regularly. All of my projects are here to help you.
+Hello everyone! My name is SmashedFrenzy16. I am a mostly a back-end developer. I joined GitHub on July 30th 2020, and started my path to creating all sorts of projects that I could make for the rest of the world. I mostly work in Python HTML, CSS and JavaScript, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. CodeMaster7000 and I have been collaborating to further improve the way you use your computers. Today, after quite a bit of time on open-source coding, I have started to update my GitHub page more regularly. All of my projects are here to help you.
 
 ### Other things about me
 
-- 🔭 I’m currently working on open source projects coded in languages such as Python. I am also starting HTML, CSS, JavaScript.
+- 🔭 I’m currently working on open source projects coded in languages such as Python. I am also starting CSS and JavaScript.
 - 🌱 I’m currently learning Python and JavaScript.
 - ✨ I’m looking for the best Python opportunities on Github, as well as contributing to common Github projects.
 - 🤔 I’m looking for help with advanced GitHub and advanced Python features as well as beginner and intermediate JavaScript. 
