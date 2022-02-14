@@ -36,6 +36,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a mostly a back-end developer. 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
