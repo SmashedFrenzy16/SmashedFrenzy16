@@ -7,8 +7,9 @@
 ![GitHub Followers](https://img.shields.io/github/followers/SmashedFrenzy16?style=social)
 ![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?style=social)
 
-
-![SmashedFrenzy16's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16&show_icons=true&locale=en&theme=tokyonight"                alt="SmashedFrenzy16"/>
+<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=SmashedFrenzy16&theme=tokyonight" alt="SashedFrenzy16" />
 ![SmashedFrenzy16's GiHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 
 ### About Me
