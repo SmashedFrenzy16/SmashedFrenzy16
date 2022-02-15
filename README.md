@@ -39,8 +39,9 @@ Hello everyone! My name is SmashedFrenzy16. I am a mostly a back-end developer. 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
-
-![SmashedFrenzy16's GiHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+<!--![SmashedFrenzy16's GiHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)-->
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
 Special News: Thank you all for helping me get to 100 repositories on GitHub! Much appreciated!
