@@ -74,6 +74,7 @@ Note: I will also start developement of HTML, CSS and JavaScript.
 - Check out my GitHub Gist profile: https://gist.github.com/SmashedFrenzy16
 - Send me a friend request, follow me and message me on Chess.com: https://www.chess.com/member/calmxbop7462
 - Follow me on my alt GitHub account: https://github.com/SmashedFrenzy16Alt
+- Check out my Google Developer Profile: https://developers.google.com/profile/u/SmashedFrenzy16
 
 
 <div align="center">
