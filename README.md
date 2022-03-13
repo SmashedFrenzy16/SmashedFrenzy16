@@ -18,8 +18,8 @@ Hello everyone! My name is SmashedFrenzy16. I am a mostly a back-end developer. 
 
 ### Other things about me
 
-- 🔭 I’m currently working on open source projects coded in languages such as Python and HTML. I am also starting CSS and JavaScript, have also made some Shell scripts and I have made some interesting charts in R!
-- 🌱 I’m currently learning Python and JavaScript.
+- 🔭 I’m currently working on open source projects coded in languages such as Python and HTML. I am also starting CSS and JavaScript, have also made some Shell scripts, TeX reports and I have made some interesting charts in R!
+- 🌱 I’m currently learning C++ and JavaScript.
 - ✨ I’m looking for the best Python opportunities on Github, as well as contributing to common Github projects.
 - 🤔 I’m looking for help with advanced GitHub and advanced Python features as well as beginner and intermediate JavaScript. 
 - 💬 Ask me about READMEs, a bit of general Python, the turtle module, the tkinter module and basic Blender. I might be able to help you.
