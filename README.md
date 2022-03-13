@@ -44,6 +44,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a mostly a back-end developer. 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gitpodio/gitpodio-ar21.svg"></code>
 	
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&layout=compact&langs_count=8&theme=tokyonight"/>
 
