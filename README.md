@@ -14,7 +14,7 @@
 
 ### About Me
 
-Hello everyone! My name is SmashedFrenzy16. I am a mostly a back-end developer. I joined GitHub on July 30th 2020, and started my path to creating all sorts of projects that I could make for the rest of the world. I mostly work in Python, HTML and JavaScript, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. CodeMaster7000 and I have been collaborating to further improve the way you use your computers. Today, after quite a bit of time on open-source coding, I have started to update my GitHub page more regularly. All of my projects are here to help you.
+Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a front-end developer. I joined GitHub on July 30th 2020, and started my path to creating all sorts of projects that I could make for the rest of the world. I mostly work in Python, HTML and JavaScript, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. CodeMaster7000 and I have been collaborating to further improve the way you use your computers. Today, after quite a bit of time on open-source coding, I have started to update my GitHub page more regularly. All of my projects are here to help you.
 
 ### Other things about me
 
