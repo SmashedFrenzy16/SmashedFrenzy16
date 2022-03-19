@@ -89,6 +89,10 @@ Note: I will also start developement of HTML, CSS and JavaScript.
 - Follow me on my alt GitHub account: https://github.com/SmashedFrenzy16Alt
 - Check out my Google Developer Profile: https://developers.google.com/profile/u/SmashedFrenzy16
 
+### Contributions
+	
+<a href="https://github.com/SmashedFrenzy16/github-readme-activity-graph"><img alt="SmashedFrenzy16's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SmashedFrenzy16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <div align="center">
   
