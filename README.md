@@ -109,5 +109,8 @@ You are visitor number:
 <sup>Can no longer be viewed with:</sup><br />[![Netscape Navigator](https://user-images.githubusercontent.com/68993968/113916671-27b78200-97d8-11eb-9496-1c45ce25568e.gif)](https://www.netscape.com)
 </div>
 
-
-<img src="https://imgur.com/rilHVxA.png"/>
+</p>
+ 
+![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.gif)
+ 
+</div>
