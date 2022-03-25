@@ -53,6 +53,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/readmeio/readmeio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_safari/apple_safari-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 	
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&layout=compact&langs_count=8&theme=tokyonight"/>
 
