@@ -23,7 +23,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 - ✨ I’m looking for the best Python opportunities on Github, as well as contributing to common Github projects.
 - 🤔 I’m looking for help with advanced GitHub and advanced Python features as well as beginner and intermediate JavaScript. 
 - 💬 Ask me about READMEs, general Python, the turtle module, the tkinter module, the pygame module and basic Blender. I might be able to help you.
-- 📫 How to reach me: On [GitHub (Main)](https://github.com/SmashedFrenzy16), [GitHub (Alternative)](https://github.com/SmashedFrenzy16Alt), [Google+](https://plus.google.com/+RayyanTaha) and [Chess.com](https://www.chess.com/member/calmxbop7462)
+- 📫 How to reach me: On [GitHub (Main)](https://github.com/SmashedFrenzy16), [GitHub (Alternative)](https://github.com/SmashedFrenzy16Alt), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Chess.com](https://www.chess.com/member/calmxbop7462)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I look for the best opportunity of developing and I have got my website if you need support!
 
