@@ -77,7 +77,7 @@ Note: I will also start developement of HTML, CSS and JavaScript.
 
 ### Follow me ✨
 
-- Follow me on Google+: https://plus.google.com/+RayyanTaha
+- Follow me on Google+: https://plus.google.com/+SmashedFrenzy16
 - Follow me on GitHub: https://github.com/SmashedFrenzy16
 - View me and like my posts on Adobe Behance: https://www.behance.net/smashedfrenzy16
 - Check out my personal website: https://smashedfrenzy16.github.io/
