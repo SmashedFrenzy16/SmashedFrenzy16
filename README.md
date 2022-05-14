@@ -6,7 +6,7 @@
 [![Google+](https://aleen42.github.io/badges/src/google_plus.svg)](https://plus.google.com/+SmashedFrenzy16)
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/SmashedFrenzy16)
 [![GitHub Followers](https://img.shields.io/github/followers/SmashedFrenzy16?label=Follow&style=social)](https://github.com/SmashedFrenzy16)
-![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?style=social)
+[![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q)
 
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16&show_icons=true&locale=en&theme=tokyonight"                alt="SmashedFrenzy16"/>
