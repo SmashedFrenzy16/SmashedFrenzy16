@@ -72,6 +72,10 @@ Special News: Thank you all for helping me get to 20 subscribers on YouTube! It 
 What's New: InvenMania is in developement and Blender addons developement has started!
 
 Note: I will also start developement of HTML, CSS and JavaScript.
+	
+### Random Joke For You To Enjoy!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
