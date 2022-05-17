@@ -1,4 +1,4 @@
-## Hi Everyone, welcome to my personal GitHub profile! 👋
+## Hi Everyone, Welcome To My Personal GitHub Profile! 👋
 
 <!--
 **SmashedFrenzy16/SmashedFrenzy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
