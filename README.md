@@ -65,6 +65,11 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 	</a>
   
 <!--![SmashedFrenzy16's GiHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)-->
+	
+### Inspirational Quote To Motivate You!
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
 Special News: Thank you all for helping me get to 20 subscribers on YouTube! It took a long time, but hopefully we can get to 1000 soon! So please help by subscribing!
