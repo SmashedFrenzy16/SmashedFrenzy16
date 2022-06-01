@@ -70,6 +70,10 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+### Random Joke For You To Enjoy!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
 Special News: Thank you all for helping me get to 20 subscribers on YouTube! It took a long time, but hopefully we can get to 1000 soon! So please help by subscribing!
@@ -77,13 +81,6 @@ Special News: Thank you all for helping me get to 20 subscribers on YouTube! It 
 What's New: InvenMania is in developement and Blender addons developement has started!
 
 Note: I will also start developement of HTML, CSS and JavaScript.
-	
-### Random Joke For You To Enjoy!
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
 
 ### Follow me ✨
 
