@@ -27,6 +27,10 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 - 📫 How to reach me: On [GitHub (Main)](https://github.com/SmashedFrenzy16), [GitHub (Alternative)](https://github.com/SmashedFrenzy16Alt), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Chess.com](https://www.chess.com/member/calmxbop7462)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I look for the best opportunity of developing and I have got my website if you need support!
+	
+### Profile Badges
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SmashedFrenzy16" alt="SmashedFrenzy16" /></a> </p>
 
 ### Languages and Tools That I Use
 
