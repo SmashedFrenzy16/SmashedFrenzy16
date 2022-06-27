@@ -6,7 +6,7 @@
 [![Google+](https://aleen42.github.io/badges/src/google_plus.svg)](https://plus.google.com/+SmashedFrenzy16)
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/SmashedFrenzy16)
 [![GitHub Followers](https://img.shields.io/github/followers/SmashedFrenzy16?label=Follow&style=social)](https://github.com/SmashedFrenzy16)
-![GitHub Stars](https://img.shields.io/github/stars/SmashedFrenzy16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/SmashedFrenzy16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social&label=Star)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 
 <p align="center">
