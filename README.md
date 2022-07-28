@@ -69,7 +69,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
   
 <!--![SmashedFrenzy16's GiHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)-->
 	
-### Inspirational Quote To Motivate You!
+### Quotes By Famous Developers!
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
