@@ -87,6 +87,8 @@ What's New: InvenMania is in developement and Blender addons developement has st
 
 Note: I will also start developement of Godot game engine projects.
 
+Another Note:
+
 ### Follow me ✨
 
 - Follow me on Google+: https://plus.google.com/+SmashedFrenzy16
