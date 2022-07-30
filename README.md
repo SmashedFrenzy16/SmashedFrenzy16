@@ -85,7 +85,7 @@ Special News: Thank you all for helping me get to 30 subscribers on YouTube! It 
 
 What's New: InvenMania is in developement and Blender addons developement has started!
 
-Note: I will also start developement of Godot Game Engine projects.
+Note: I will also start developement of Godot game engine projects.
 
 ### Follow me ✨
 
