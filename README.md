@@ -83,7 +83,7 @@ New Event: NFT GDC22 is just round the corner! Listen to any updates by subscrib
 
 Special News: Thank you all for helping me get to 30 subscribers on YouTube! It took a long time, but hopefully we can get to 1000 soon! So please help by subscribing!
 
-What's New: InvenMania is in developement and Blender addons developement has started!
+What's New: InvenMania is in developement and Blender addons developement (and collaborations with CodeMaster7000 on that) has started!
 
 Note: I will also start developement of Godot game engine projects very soon.
 
