@@ -96,7 +96,7 @@ Another Note: I will start uploading scripts in the near future related to IoT a
 - View me and like my posts on Adobe Behance: https://www.behance.net/smashedfrenzy16
 - Check out my personal website: https://smashedfrenzy16.github.io/
 - Check out my website: https://netfruittechnologies.wordpress.com
-- Check out my second website: https://netfruit-technologies.business.site/ 
+- Check out my second website: https://netfruit-technologies.business.site/
 - Check out my blog: https://netfruittechnologies.blogspot.com
 - Check out and sign up to my forum: https://netfruittechnologies.forumotion.com/
 - Subscribe to my feed: https://feeds.feedburner.com/NetFruitTechnologies
