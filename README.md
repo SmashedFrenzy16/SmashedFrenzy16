@@ -9,7 +9,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/SmashedFrenzy16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social&label=Star)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Front-End+Developer;Back-End+Developer;%3E2+years+of+programming+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Front-End+Developer;Back-End+Developer;%3E2+years+of+programming+experience" alt="Typing SVG" /></a>
 
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16&show_icons=true&locale=en&theme=tokyonight"                alt="SmashedFrenzy16"/>
