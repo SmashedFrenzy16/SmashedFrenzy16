@@ -28,7 +28,9 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 - 📫 How to reach me: On [GitHub (Main)](https://github.com/SmashedFrenzy16), [GitHub (Alternative)](https://github.com/SmashedFrenzy16Alt), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Chess.com](https://www.chess.com/member/calmxbop7462)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am in the top 3% of Python developers worldwide! (Data retrieved from CodersRank)
-	
+
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 ### Profile Badges
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SmashedFrenzy16" alt="SmashedFrenzy16" /></a> </p>
