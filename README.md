@@ -9,14 +9,14 @@
 ![GitHub Stars](https://img.shields.io/github/stars/SmashedFrenzy16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social&label=Star)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Front-End+Developer;Back-End+Developer;%3E2+years+of+programming+experience" alt="Typing SVG" /></a>
-
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16&show_icons=true&locale=en&theme=tokyonight"                alt="SmashedFrenzy16"/>
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=SmashedFrenzy16&theme=tokyonight" alt="SmashedFrenzy16" />
 <!--<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true"/>-->
 
 ### About Me
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Front-End+Developer;Back-End+Developer;%3E2+years+of+programming+experience" alt="Typing SVG" /></a>
 
 Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a front-end developer. I joined GitHub on July 30th 2020, and started my path to create all sorts of projects that I could make for the rest of the world. I mostly work in Python, HTML and C++ (and a hint of JavaScript), building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. I have been developing and curating my skills over 2 years to further improve the way you use your computers. Today, after quite a bit of time on open-source coding, I have got a plethora of new, high demanded projects and code for you to use all free of charge.
 
