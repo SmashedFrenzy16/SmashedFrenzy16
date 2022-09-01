@@ -85,7 +85,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 New Event: NFT GDC22 is just round the corner! Listen to any updates by subscribing to the [NetFruit Technologies YouTube channel](https://www.youtube.com/channel/UC4kTIBbeVDYC1dQAOeNB7CA?sub_confirmation=1)!
 
-What's New: InvenMania is in developement and Blender addons developement (and collaborations with CodeMaster7000 on that) has started!
+What's New: InvenMania is in now truly under developement and Blender addons developement (and collaborations with CodeMaster7000 on that) has started!
 
 Note: I will also start developement of Godot game engine projects very soon.
 
