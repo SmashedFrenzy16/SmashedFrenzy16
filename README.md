@@ -87,7 +87,7 @@ New Event: NFT GDC22 is just round the corner! Listen to any updates by subscrib
 
 What's New: InvenMania is in now truly under developement and Blender addons developement (and collaborations with CodeMaster7000 on that) has started!
 
-Note: I will also start developement of Godot game engine projects very soon.
+Note: I am starting Godot Game Engine projects and developing games in general.
 
 Another Note: I will start uploading scripts in the near future related to IoT and other cool things! So stay tuned and follow me for any updates!
 
