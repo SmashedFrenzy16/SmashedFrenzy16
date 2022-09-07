@@ -83,6 +83,8 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
+IMPORTANT: NFT GDC22 days 2 and 3 are delayed for a few days. Please be patient and look out for any updates!
+
 New Event: NFT GDC22 is just round the corner! Listen to any updates by subscribing to the [NetFruit Technologies YouTube channel](https://www.youtube.com/channel/UC4kTIBbeVDYC1dQAOeNB7CA?sub_confirmation=1)!
 
 What's New: InvenMania is in now truly under developement and Blender addons developement (and collaborations with CodeMaster7000 on that) has started!
