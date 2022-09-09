@@ -89,8 +89,6 @@ VERY IMPORTANT: Due to Queen Elizabeth II's tragic death, the company has declar
 
 IMPORTANT: NFT GDC22 days 2 and 3 are delayed for a few days. Please be patient and look out for any updates!
 
-New Event: NFT GDC22 is just round the corner! Listen to any updates by subscribing to the [NetFruit Technologies YouTube channel](https://www.youtube.com/channel/UC4kTIBbeVDYC1dQAOeNB7CA?sub_confirmation=1)!
-
 What's Trending: DonutOS is getting many new features and becoming more powerful day by day!
 
 Note: I am starting Godot Game Engine projects and developing games in general.
