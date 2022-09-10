@@ -89,7 +89,7 @@ VERY IMPORTANT: Due to Queen Elizabeth II's tragic death, the company has declar
 
 IMPORTANT: NFT GDC22 days 2 and 3 are delayed for a few days. Please be patient and look out for any updates!
 
-What's Trending: DonutOS is getting many new features and becoming more powerful day by day!
+ALSO IMPORTANT: Donut Emulator 2.0 and PytoolSuite 3.0 are getting delayed (as long as February 2023) due to more features getting added and making the releases more substantial and better. In place of their autumn releases, they will get improvement updates on their current versions.
 
 Note: I am starting Godot Game Engine projects and developing games in general.
 
