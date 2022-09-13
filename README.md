@@ -85,7 +85,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
-VERY IMPORTANT: Due to Queen Elizabeth II's tragic death, the company has declared a holiday. We will be back to our normal work schedule at some point next week.
+VERY IMPORTANT: Due to Queen Elizabeth II's tragic death, the company has declared a holiday on the day of her state funeral. The previous holiday finished on Monday 12th September 2022.
 
 IMPORTANT: NFT GDC22 days 2 and 3 are delayed for a few days. Please be patient and look out for any updates!
 
