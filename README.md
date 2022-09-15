@@ -26,7 +26,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 - 🔭 I’m currently working on open source projects (and other ones) coded in languages such as Python, HTML, C++ and JavaScript. I am also starting GDScript + C++, have also made some Shell scripts, created engaging TeX reports and I have made some interesting charts in R!
 - 🌱 I’m currently learning C++ and GDScript.
-- ✨ I’m looking for the best Python opportunities on Github, as well as contributing to common Github repos and projects.
+- ✨ I’m looking for the best programming opportunities on Github, as well as contributing to common Github repos and projects.
 - 🤔 I’m looking for help with advanced GitHub and advanced Python features as well as how to effectively learn programming languages in general.
 - 💬 Ask me about how to make great READMEs, query about code in Python and C++, and learn basic Blender in good hands. I might be able to help you.
 - 📫 How to reach me: On [GitHub (Main)](https://github.com/SmashedFrenzy16), [GitHub (Alternative)](https://github.com/SmashedFrenzy16Alt), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Chess.com](https://www.chess.com/member/calmxbop7462)
@@ -85,7 +85,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
-VERY IMPORTANT: Due to Queen Elizabeth II's state funeral, NetFruit Technologies will be off work on Monday 19th September. Our thoughts are with the Royal Family and HM The King at this tragic moment.
+VERY IMPORTANT: Due to Queen Elizabeth II's state funeral, NetFruit Technologies will be off work on Monday 19th September. Our thoughts are with the Royal Family and HM The King at this tragic moment. SmashedFrenzy16 Studios will also be observing this day as a day of great importance.
 
 IMPORTANT: NFT GDC22 days 2 and 3 are delayed for a few days. Please be patient and look out for any updates!
 
@@ -93,7 +93,7 @@ ALSO IMPORTANT: Donut Emulator 2.0 and PytoolSuite 3.0 are getting delayed (as l
 
 Note: I am starting Godot Game Engine projects and developing games in general.
 
-Another Note: I will start uploading scripts in the near future related to IoT and other cool things! So stay tuned and follow me for any updates!
+Another Note: I will start uploading scripts in the near future related to IoT and other cool things relating to all kinds of projects! So stay tuned and follow me for any updates!
 
 ### Follow me ✨
 
