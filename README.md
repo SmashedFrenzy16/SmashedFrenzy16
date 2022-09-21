@@ -91,6 +91,8 @@ IMPORTANT: NFT GDC22 days 2 and 3 are delayed for a few days. Please be patient 
 
 ALSO IMPORTANT: Donut Emulator 2.0 and PytoolSuite 3.0 are getting delayed (as long as February 2023) due to more features getting added and making the releases more substantial and better. In place of their autumn releases, they will get improvement updates on their current versions.
 
+Special News: I have reached 100 followers on GitHub! Thank yoto all of you who followed me or supported me in any way!
+
 Note: I am starting Godot Game Engine projects and developing games in general.
 
 Another Note: I will start uploading scripts in the near future related to IoT and other cool things relating to all kinds of projects! So stay tuned and follow me for any updates!
