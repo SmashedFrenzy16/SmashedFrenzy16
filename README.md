@@ -140,3 +140,8 @@ You are visitor number:
 ![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.gif)
  
 </div>
+
+<div>
+  <img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
+  <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
+</div>
