@@ -114,6 +114,7 @@ Another Note: I will start uploading scripts in the near future related to IoT a
 - Follow me on my alt GitHub account: https://github.com/SmashedFrenzy16Alt
 - Check out my Google Developer Profile: https://developers.google.com/profile/u/SmashedFrenzy16
 - Check out my Stack Overflow profile: https://stackoverflow.com/users/16224707/smashedfrenzy16
+- Check out my CodersRank profile: https://profile.codersrank.io/SmashedFrenzy16
 
 ### Contributions
 	
