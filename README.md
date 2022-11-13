@@ -31,7 +31,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 - 💬 Ask me about how to make great READMEs, query about code in Python and C++, and learn basic Blender in good hands. I might be able to help you.
 - 📫 How to reach me: On [GitHub (Main)](https://github.com/SmashedFrenzy16), [GitHub (Alternative)](https://github.com/SmashedFrenzy16Alt), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Chess.com](https://www.chess.com/member/calmxbop7462)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am in the top 2% of Python developers worldwide (Data retrieved from CodersRank! I have also commited to GitHub Docs and Microsoft!
+- ⚡ Fun fact: I am in the top 2% of Python developers worldwide (Data retrieved from CodersRank! I have also commited to GitHub and Microsoft!
 
 <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 
