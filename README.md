@@ -85,8 +85,6 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
-VERY IMPORTANT: Due to Queen Elizabeth II's state funeral, NetFruit Technologies will be off work on Monday 19th September. Our thoughts are with the Royal Family and HM The King at this tragic moment. SmashedFrenzy16 Studios will also be observing this day as a day of great importance.
-
 IMPORTANT: NFT GDC22 days 2 and 3 are delayed for a few days. Please be patient and look out for any updates!
 
 ALSO IMPORTANT: Donut Emulator 2.0 and PytoolSuite 3.0 are getting delayed (as long as February 2023) due to more features getting added and making the releases more substantial and better. In place of their autumn releases, they will get improvement updates on their current versions.
