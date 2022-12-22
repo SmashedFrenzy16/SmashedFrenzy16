@@ -113,11 +113,6 @@ Another Note: I will start uploading scripts in the near future related to IoT a
 - Check out my Stack Overflow profile: https://stackoverflow.com/users/16224707/smashedfrenzy16
 - Check out my CodersRank profile: https://profile.codersrank.io/user/SmashedFrenzy16
 
-### Contributions
-	
-<a href="https://github.com/SmashedFrenzy16/github-readme-activity-graph"><img alt="SmashedFrenzy16's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SmashedFrenzy16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
 <div align="center">
   
 ![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
