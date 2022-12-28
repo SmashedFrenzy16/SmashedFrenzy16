@@ -20,6 +20,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Front-End+Developer;Back-End+Developer;%3E2+years+of+programming+experience" alt="Typing SVG" /></a>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
+</div>
+
 Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a front-end developer. I joined GitHub on July 30th 2020, and started my path to create all sorts of projects that I could make for the rest of the world. I mostly work in Python, HTML and C++, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. I have been developing and curating my skills over 2 years to further improve the way you use your computers. Today, after quite a bit of time on open-source coding, I have got a plethora of new, high demanded projects and code for you to use all free of charge.
 
 ### Other Things About Me
