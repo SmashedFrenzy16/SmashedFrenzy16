@@ -13,6 +13,8 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16&show_icons=true&locale=en&theme=tokyonight"                alt="SmashedFrenzy16"/>
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=SmashedFrenzy16&theme=tokyonight" alt="SmashedFrenzy16" />
 <!--<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true"/>-->
+	
+## Please follow @SmashedFrenzy16 on GitHub! By doing this, you will be showing support for all of my hard work! So thank you in advance!
 
 ### About Me, @SmashedFrenzy16
 
