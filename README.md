@@ -18,6 +18,9 @@
 
 ### About Me, @SmashedFrenzy16
 
+<h2>Latest Tweets</h2>
+<p><a href="https://twitter.com/SmashedFrenzy16"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=SmashedFrenzy16&amp;layout=wide" alt="github-readme-twitter"></a></p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Front-End+Developer;Back-End+Developer;%3E2+years+of+programming+experience" alt="Typing SVG" /></a>
 
 <div align="center">
