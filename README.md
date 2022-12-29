@@ -98,6 +98,8 @@ Note: I am starting Godot Game Engine projects and developing games in general.
 
 Another Note: I will start uploading scripts in the near future related to IoT and other cool things relating to all kinds of projects! So stay tuned and follow me for any updates!
 
+## My Latest Tweets
+
 ### Follow me ✨
 
 - Follow me on Google+: https://plus.google.com/+SmashedFrenzy16
