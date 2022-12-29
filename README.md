@@ -97,8 +97,6 @@ Special News: I have reached 100 followers on GitHub! Thank you to all of you wh
 Note: I am starting Godot Game Engine projects and developing games in general.
 
 Another Note: I will start uploading scripts in the near future related to IoT and other cool things relating to all kinds of projects! So stay tuned and follow me for any updates!
-
-### My Latest Tweets
 	
 <p><a href="https://twitter.com/SmashedFrenzy16"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=SmashedFrenzy16&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
