@@ -90,6 +90,9 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
+<h2>Latest Tweets from SmashedFrenzy16</h2>
+<p><a href="https://twitter.com/SmashedFrenzy16"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=SmashedFrenzy16&amp;layout=wide" alt="github-readme-twitter"></a></p>
+
 IMPORTANT: Donut Emulator 2.0 and PytoolSuite 3.0 are getting delayed (as long as February 2023) due to more features getting added and making the releases more substantial and better. In place of their autumn releases, they will get improvement updates on their current versions.
 
 Special News: I have reached 100 followers on GitHub! Thank you to all of you who followed me or supported me in any way!
