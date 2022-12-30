@@ -1,9 +1,5 @@
 ## Hi Everyone, Welcome To My Personal GitHub Profile! 👋
 
-<div align="center">
-   <img src="./Assets/hello-world.gif" />
-</div>
-
 <!--
 **SmashedFrenzy16/SmashedFrenzy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -12,6 +8,10 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/SmashedFrenzy16.svg?style=social&label=Follow%20%40SmashedFrenzy16)](https://twitter.com/SmashedFrenzy16)
 ![GitHub Stars](https://img.shields.io/github/stars/SmashedFrenzy16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social&label=Star)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
+
+<div align="center">
+   <img src="./Assets/hello-world.gif" />
+</div>
 
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=SmashedFrenzy16&show_icons=true&locale=en&theme=tokyonight"                alt="SmashedFrenzy16"/>
