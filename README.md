@@ -42,7 +42,9 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am in the top 5% of Python developers worldwide and 2nd in the UK for pygame development (Data retrieved from CodersRank)!
 
-<img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
+<p align="center">
+<img src="./Assets/Coder.gif" alt="Coder GIF" width="500">
+</p>
 
 ### Profile Badges
 
