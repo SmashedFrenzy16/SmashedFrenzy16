@@ -9,9 +9,11 @@
 ![GitHub Stars](https://img.shields.io/github/stars/SmashedFrenzy16?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social&label=Star)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 
+<!--
 <div align="center">
    <img src="./Assets/hello-world.gif" />
 </div>
+-->
 
 <p align="center">
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=SmashedFrenzy16&theme=tokyonight" alt="SmashedFrenzy16" />
