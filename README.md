@@ -1,4 +1,10 @@
-## Hi Everyone, Welcome To My Personal GitHub Profile! 👋
+<!--## Hi Everyone, Welcome To My Personal GitHub Profile! 👋-->
+
+<div id="header">
+  <h2>
+    Hi Everyone, Welcome To My Personal GitHub Profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div> 
 
 <!--
 **SmashedFrenzy16/SmashedFrenzy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
