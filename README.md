@@ -101,7 +101,13 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### Latest News from SmashedFrenzy16 and NetFruit Technologies
+### Latest News from SmashedFrenzy16, NetFruit Technologies and the GitHub Community
+	
+What's Hot And Trending Right Now: GitHub has finally hit 100 million followers! This is a huge achivement for them, they hit 100 million before 2025! Well done to them!
+	
+<p align="center">
+<img src="./Assets/github-hits-100m" alt="GitHub Hits 100 Million" width="500">
+</p>
 
 IMPORTANT: Donut Emulator 2.0 and PytoolSuite 3.0 are getting delayed (as long as February 2023) due to more features getting added and making the releases more substantial and better.
 
