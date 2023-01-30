@@ -107,7 +107,9 @@ What's Hot And Trending Right Now: GitHub has finally hit 100 million followers!
 	
 <img src="./Assets/github-hits-100m.png" alt="GitHub Hits 100 Million" width="600">
 
-IMPORTANT: Donut Emulator 2.0 and PytoolSuite 3.0 are getting delayed (as long as February 2023) due to more features getting added and making the releases more substantial and better.
+- NEW: [PytoolSuite 3.0](https://github.com/NetFruit-Technologies/pytoolsuite) has been released! This is our biggest update yet, with so many new features and bug fixes to make your life eaier than ever befire!. Please check it out and star and for the repository!
+
+- Donut Emulator has been postponed until mid February 2023. It is also getting revamped majorly. Keep an eye out for future updates and cool new features!
 
 Special News: I have reached 100 followers on GitHub! Thank you to all of you who followed me or supported me in any way!
 
