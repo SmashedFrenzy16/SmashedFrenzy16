@@ -111,7 +111,7 @@ What's Hot And Trending Right Now: GitHub has finally hit 100 million followers!
 
 - Donut Emulator has been postponed until mid February 2023. It is also getting revamped majorly. Keep an eye out for future updates and cool new features!
 
-Special News: I have reached 100 followers on GitHub! Thank you to all of you who followed me or supported me in any way!
+Special News: I have reached 150 followers on GitHub! Thank you to all of you who followed me or supported me in any way!
 
 Note: I am starting Godot Game Engine projects and developing games in general.
 
