@@ -101,7 +101,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### Latest News from SmashedFrenzy16, NetFruit Technologies
+### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
 NEW: [PytoolSuite 3.0](https://github.com/NetFruit-Technologies/pytoolsuite) has been released! This is our biggest update yet, with so many new features and bug fixes to make your life easier than ever before!. Please check it out, star and fork the repository!
 
