@@ -104,8 +104,6 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 ### Latest News from SmashedFrenzy16, NetFruit Technologies and the GitHub Community
 	
 What's Hot And Trending Right Now: GitHub has finally hit 100 million followers! This is a huge achivement for them, they hit 100 million before 2025! Well done to them!
-	
-<img src="./Assets/github-hits-100m.png" alt="GitHub Hits 100 Million" width="600">
 
 NEW: [PytoolSuite 3.0](https://github.com/NetFruit-Technologies/pytoolsuite) has been released! This is our biggest update yet, with so many new features and bug fixes to make your life easier than ever before!. Please check it out, star and fork the repository!
 
