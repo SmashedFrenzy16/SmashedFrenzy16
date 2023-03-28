@@ -105,7 +105,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 IMPORTANT: Donut Emulator has been postponed until early April 2023. It is also getting revamped majorly. Keep an eye out for future updates and cool new features!
 
-Special News: I have reached 150 followers on GitHub! Thank you to all of you who followed me or supported me in any way!
+Special News: A new major project is under high development! It is brought to you by SmashedFrenzy16 Studios!
 
 Note: I am starting Godot Game Engine projects and developing games in general.
 
