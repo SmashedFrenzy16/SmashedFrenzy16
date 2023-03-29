@@ -105,7 +105,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 IMPORTANT: Donut Emulator has been postponed until early April 2023. It is also getting revamped majorly. Keep an eye out for future updates and cool new features!
 
-Special News: A new major project is under high development! It is brought to you by SmashedFrenzy16 Studios!
+Special News: ONews has been launched as of 29/03/2023! ONews is your goto news application for quickly checking headlines and trendy articles! This is an application developed by SmashedFrenzy16 Studios! Enjoy!
 
 Note: I am starting Godot Game Engine projects and developing games in general.
 
