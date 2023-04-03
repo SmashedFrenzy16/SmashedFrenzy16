@@ -102,6 +102,8 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
+	
+Breaking News: SmashedFrenzy16 has hit number 1 in Pygame development in the UK (Data by CodersRank)! Thank you to you all for your great support on GitHub!
 
 IMPORTANT: Donut Emulator has been postponed until early April 2023. It is also getting revamped majorly. Keep an eye out for future updates and cool new features!
 
