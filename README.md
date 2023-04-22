@@ -103,7 +103,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 	
-Breaking News: Donut Emulator 2.0 has been released! [Check it out here: ](https://smashedfrenzy16.github.io/donut-emulator)
+Breaking News: Donut Emulator 2.0 has been released! [Check it out here](https://smashedfrenzy16.github.io/donut-emulator).
 
 IMPORTANT: Donut Emulator has been postponed until early April 2023. It is also getting revamped majorly. Keep an eye out for future updates and cool new features!
 
