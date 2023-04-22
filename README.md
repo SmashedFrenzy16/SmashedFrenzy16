@@ -105,13 +105,9 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 	
 Breaking News: Donut Emulator 2.0 has been released! [Check it out here](https://smashedfrenzy16.github.io/donut-emulator).
 
-IMPORTANT: Donut Emulator has been postponed until early April 2023. It is also getting revamped majorly. Keep an eye out for future updates and cool new features!
-
 Special News: ONews has been launched as of 29/03/2023! ONews is your goto news application for quickly checking headlines and trendy articles! This is an application developed by SmashedFrenzy16 Studios! Enjoy!
 
-Note: I am starting Godot Game Engine projects and developing games in general.
-
-Another Note: I will start uploading scripts in the near future related to IoT and other cool things relating to all kinds of projects! So stay tuned and follow me for any updates!
+Note: I am starting Godot Game Engine projects and developing games in general. Furthermore, I will start uploading scripts in the near future related to IoT and other cool things relating to all kinds of projects! So stay tuned and follow me for any updates!
 	
 <p><a href="https://twitter.com/SmashedFrenzy16"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=SmashedFrenzy16&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
