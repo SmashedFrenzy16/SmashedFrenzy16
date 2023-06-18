@@ -102,8 +102,6 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
-	
-Breaking News: Donut Emulator 2.0 has been released! [Check it out here](https://smashedfrenzy16.github.io/donut-emulator).
 
 Special News: ONews has been launched as of 29/03/2023! ONews is your goto news application for quickly checking headlines and trendy articles! This is an application developed by SmashedFrenzy16 Studios! Enjoy!
 
