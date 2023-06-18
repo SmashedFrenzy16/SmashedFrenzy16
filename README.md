@@ -36,7 +36,7 @@
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
 </div>
 
-Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a front-end developer. I joined GitHub on July 30th 2020, and started my path to create all sorts of projects that I could make for the rest of the world. I mostly work in Python, HTML and C++, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. I have been developing and curating my skills over 2 years to try and help you improve the way you use your computers. Today, after quite a bit of time on open-source coding (which a lot of the GitHub community have helped me by supporting me every step of the journey, so thanks 😃), I have got a plethora of new, high demanded projects and code for you to use all free of charge.
+Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a front-end developer. I joined GitHub on July 30th 2020, and started my path to create all sorts of projects that I could make for the rest of the world. I mostly work in Python, HTML and C++, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. I have been developing and curating my skills over 2 years to try and help you improve the way you use your computers. Today, after quite a bit of time on open-source coding (which a lot of the GitHub community have helped me by supporting me every step of the journey, so thanks 😀), I have got a plethora of new, high demanded projects and code for you to use all free of charge.
 
 ### Other Things About Me
 
