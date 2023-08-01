@@ -148,7 +148,7 @@ You are visitor number:
 
 </p>
  
-![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.gif)-->
  
 </div>
 
