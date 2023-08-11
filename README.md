@@ -41,7 +41,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Other Things About Me
 
-- 🔭 I’m currently working on open source projects (and other ones) coded in languages such as Python, HTML, C++ and JavaScript. I am also starting GDScript + C++, have also made some Shell scripts, created engaging TeX reports and I have made some interesting charts in R!
+- 🔭 I’m currently working on the [SmashedFrenzy16 Web3 Project](https://smashedfrenzy16.dao) (to configure your browser to support Web3 domains to view the homepage of the SmashedFrenzy16 Web3 Project, click [here](https://www.makeuseof.com/access-unstoppable-domains-websites/)).
 - 🌱 I’m currently learning GDScript, ethical hacking and AWS.
 - ✨ I’m looking for the best programming opportunities on Github, as well as contributing to common Github repos and projects.
 - 🤔 I’m looking for help with ethical hacking and C++.
