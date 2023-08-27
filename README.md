@@ -25,8 +25,6 @@
 <p align="center">
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SmashedFrenzy16&theme=dark&&fire=DD2727&border=DD2727&ring=DD2727&currStreakLabel=DD2727"/>
 <!--<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true"/>-->
-	
-## Breaking News: Thank you all for 250 GitHub followers! This helps hugely with supporting my GitHub efforts, so please continue supporting me by following me!
 
 ### About Me, @SmashedFrenzy16
 
