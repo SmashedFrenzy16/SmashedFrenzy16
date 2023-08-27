@@ -56,11 +56,11 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SmashedFrenzy16" alt="SmashedFrenzy16" /></a> </p>
 
-### Languages and Tools That I Use
+### Softwares and Technologies That I Use
 
-#### Languages
+#### Softwares
 
-#### Tools
+### Technologies
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
