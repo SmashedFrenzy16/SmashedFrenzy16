@@ -60,6 +60,11 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 #### Softwares
 
+<p>
+<a href="#"><img alt="VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+<a href="#"><img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+</p>
+
 ### Technologies
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
