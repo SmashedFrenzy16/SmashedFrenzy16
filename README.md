@@ -58,6 +58,10 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Languages and Tools That I Use
 
+#### Languages
+
+#### Tools
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
