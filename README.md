@@ -16,6 +16,8 @@
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 [![Gmail](https://img.shields.io/badge/-smashedfrenzy16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smashedfrenzy16@gmail.com)](mailto:smashedfrenzy16@gmail.com)
 
+# BREAKING NEWS: NetFruit Technologies has launched is now NetFruit Technologies Ltd!
+
 <!--
 <div align="center">
    <img src="./Assets/hello-world.gif" />
@@ -111,7 +113,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
-Special News: ONews has been launched as of 29/03/2023! ONews is your goto news application for quickly checking headlines and trendy articles! This is an application developed by SmashedFrenzy16 Studios! Enjoy!
+Breaking News: NetFruit Technologies has launched is now NetFruit Technologies Ltd!
 
 Note: I am starting Godot Game Engine projects and developing games in general.
 
