@@ -16,8 +16,6 @@
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYgonjsSvGmJVyNaA4uki8Q?label=Subscribe&style=social)](https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1)
 [![Gmail](https://img.shields.io/badge/-smashedfrenzy16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smashedfrenzy16@gmail.com)](mailto:smashedfrenzy16@gmail.com)
 
-# BREAKING NEWS: NetFruit Technologies has launched and is now NetFruit Technologies Ltd!
-
 <!--
 <div align="center">
    <img src="./Assets/hello-world.gif" />
