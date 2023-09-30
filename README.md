@@ -41,8 +41,8 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 - 🔭 I’m currently working on the [SmashedFrenzy16 Web3 Project](https://smashedfrenzy16.dao) (to configure your browser to support Web3 domains to view the homepage of the SmashedFrenzy16 Web3 Project, click [here](https://www.makeuseof.com/access-unstoppable-domains-websites/)).
 - 🌱 I’m currently learning GDScript, ethical hacking and AWS.
-- ✨ I’m looking for the best programming opportunities on Github, as well as contributing to common Github repos and projects.
-- 🤔 I’m looking for help with ethical hacking and C++.
+- ✨ I’m looking for the best programming opportunities on GitHub, as well as contributing to common GitHub repos and projects.
+- 🤔 I’m looking for help with ethical hacking and C#.
 - 💬 Ask me about how to make attractive profile READMEs, how to code in Python and C++, how to effectively use GitHub in general and even more, which can be found on my sponsors profile! I might be able to help you.
 - 📫 How to reach me: On [GitHub (Main)](https://github.com/SmashedFrenzy16), [GitHub (Alternative)](https://github.com/SmashedFrenzy16Alt), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Chess.com](https://www.chess.com/member/calmxbop7462)
 - 😄 Pronouns: He
