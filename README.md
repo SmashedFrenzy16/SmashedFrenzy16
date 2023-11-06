@@ -111,8 +111,6 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Latest News from SmashedFrenzy16 and NetFruit Technologies
 
-Breaking News: NetFruit Technologies has launched and is now NetFruit Technologies Ltd!
-
 Note: I am starting Godot Game Engine projects and developing games in general.
 
 Another Note: I will start uploading scripts in the near future related to IoT and other cool things relating to all kinds of projects! So stay tuned and follow me for any updates!
