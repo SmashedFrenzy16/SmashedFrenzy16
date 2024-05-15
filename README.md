@@ -71,6 +71,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 <p>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 </p>
 
 ### Technologies
