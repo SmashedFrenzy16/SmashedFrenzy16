@@ -45,7 +45,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 - 🤔 I’m looking for help with ethical hacking and C#.
 - 💬 Ask me about how to make attractive profile READMEs, how to code in Python and C++, how to effectively use GitHub in general and even more, which can be found on my sponsors profile! I might be able to help you.
 - 📫 How to reach me: On [GitHub](https://github.com/SmashedFrenzy16), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Chess.com](https://www.chess.com/member/calmxbop7462)
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I am in the top 3% of Python developers worldwide and 1st in the UK for pygame development (Data retrieved from CodersRank)!
 
 <p align="center">
