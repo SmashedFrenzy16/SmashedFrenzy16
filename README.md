@@ -143,7 +143,6 @@ Another Note: I will start uploading scripts in the near future related to IoT a
 - Subscribe to my Youtube channel: https://www.youtube.com/channel/UCYgonjsSvGmJVyNaA4uki8Q?sub_confirmation=1
 - Check out my GitHub Gist profile: https://gist.github.com/SmashedFrenzy16
 - Send me a friend request, follow me and message me on Chess.com: https://www.chess.com/member/calmxbop7462
-- Follow me on my alt GitHub account: https://github.com/SmashedFrenzy16Alt
 - Check out my Google Developer Profile: https://developers.google.com/profile/u/SmashedFrenzy16
 - Check out my Stack Overflow profile: https://stackoverflow.com/users/16224707/smashedfrenzy16
 - Check out my CodersRank profile: https://profile.codersrank.io/user/SmashedFrenzy16
