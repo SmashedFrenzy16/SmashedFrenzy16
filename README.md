@@ -78,7 +78,6 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 
 ### Technologies
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
@@ -89,7 +88,6 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/archive_web/archive_web-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>	
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitpodio/gitpodio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></code>
