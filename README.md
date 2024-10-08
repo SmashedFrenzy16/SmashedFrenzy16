@@ -100,6 +100,10 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 
+### Holopin Badges
+
+[![An image of @smashedfrenzy16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smashedfrenzy16)](https://holopin.io/@smashedfrenzy16)
+
 <h3>Most Used Languages (by number of commits):</h3>
 <p align="center">
 	<a href="https://profile.codersrank.io/user/SmashedFrenzy16#Tech%20Skills">
