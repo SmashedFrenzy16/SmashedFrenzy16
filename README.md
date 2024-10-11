@@ -44,7 +44,7 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 - ✨ I’m looking for the best programming opportunities on GitHub, as well as contributing to common GitHub repos and projects.
 - 🤔 I’m looking for help with ethical hacking and C#.
 - 💬 Ask me about how to make attractive profile READMEs, how to code in Python and C++, how to effectively use GitHub in general and even more, which can be found on my sponsors profile! I might be able to help you.
-- 📫 How to reach me: On [GitHub](https://github.com/SmashedFrenzy16), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Email](mailto:smashedfrenzy16@gmail.com)
+- 📫 How to reach me: On [GitHub](https://github.com/SmashedFrenzy16), [X (Twitter)](https://x.com/SmashedFrenzy16), [Google+](https://plus.google.com/+SmashedFrenzy16) and [Email](mailto:smashedfrenzy16@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My favourite programming language is Python!
 
