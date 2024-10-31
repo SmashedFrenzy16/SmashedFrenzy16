@@ -103,12 +103,6 @@ Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a fron
 ### Holopin Badges
 
 [![An image of @smashedfrenzy16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smashedfrenzy16)](https://holopin.io/@smashedfrenzy16)
-
-<h3>Most Used Languages (by number of commits):</h3>
-<p align="center">
-	<a href="https://profile.codersrank.io/user/SmashedFrenzy16#Tech%20Skills">
-		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SmashedFrenzy16&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,R,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
-	</a>
   
 <!--![SmashedFrenzy16's GiHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)-->
 	
@@ -129,6 +123,8 @@ Note: I am starting Godot Game Engine projects and developing games in general.
 Another Note: I will start uploading scripts in the near future related to IoT and other cool things relating to all kinds of projects! So stay tuned and follow me for any updates!
 	
 <!--<p><a href="https://twitter.com/SmashedFrenzy16"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=SmashedFrenzy16&amp;layout=wide" alt="github-readme-twitter"></a></p>-->
+
+![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.gif)
 
 ### Follow me ✨
 
