@@ -130,7 +130,8 @@ Another Note: I will start uploading scripts in the near future related to IoT a
 	
 <!--<p><a href="https://twitter.com/SmashedFrenzy16"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=SmashedFrenzy16&amp;layout=wide" alt="github-readme-twitter"></a></p>-->
 
-### Follow me ✨
+<details>
+	<summary><h3>Follow me ✨</h3></summary>
 
 - Follow me on Google+: https://plus.google.com/+SmashedFrenzy16
 - Follow me on GitHub: https://github.com/SmashedFrenzy16
@@ -148,6 +149,8 @@ Another Note: I will start uploading scripts in the near future related to IoT a
 - Check out my Google Developer Profile: https://developers.google.com/profile/u/SmashedFrenzy16
 - Check out my Stack Overflow profile: https://stackoverflow.com/users/16224707/smashedfrenzy16
 - Check out my CodersRank profile: https://profile.codersrank.io/user/SmashedFrenzy16
+
+</details>
 
 <div align="center">
   
