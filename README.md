@@ -168,6 +168,9 @@ You are visitor number:
 </div>
 
 </p>
+
+<img width="468" height="52" alt="mozilla" src="https://github.com/user-attachments/assets/d6b2f72c-aca1-45c6-a0a2-2765de80d0d1" />
+<!--"Mozilla" is a trademark of Netscape Communications Corporation-->
  
 <!--![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.gif)-->
  
