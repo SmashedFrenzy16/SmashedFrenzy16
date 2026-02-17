@@ -26,7 +26,7 @@
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SmashedFrenzy16&theme=dark&&fire=DD2727&border=DD2727&ring=DD2727&currStreakLabel=DD2727"/>-->
 <!--<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmashedFrenzy16&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true"/>-->
 
-### About Me, @SmashedFrenzy16
+### About Me
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Full-Stack+Developer;3+years+of+programming+experience" alt="Typing SVG" /></a>
 
@@ -34,10 +34,6 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
 </div>
-
-Hello everyone! My name is SmashedFrenzy16. I am a back-end developer and a front-end developer. I joined GitHub on July 30th 2020, and started my path to create all sorts of projects that I could make for the rest of the world. I mostly work in Python, C++ and C#, building all sorts of different repositories that meet people's different needs. I also collaborate with other developers. I have been developing and curating my skills over 2 years to try and help you improve the way you use your computers. Today, after quite a bit of time on open-source coding (which a lot of the GitHub community have helped me by supporting me every step of the journey, so thanks 😀), I have got a plethora of new, high demanded projects and code for you to use all free of charge.
-
-### Other Things About Me
 
 - 🔭 I’m currently working on the [SmashedFrenzy16 Web3 Project](https://smashedfrenzy16.dao) (to configure your browser to support Web3 domains to view the homepage of the SmashedFrenzy16 Web3 Project, click [here](https://www.makeuseof.com/access-unstoppable-domains-websites/)).
 - 🌱 I’m currently learning AI, ethical hacking and AWS.
