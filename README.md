@@ -28,7 +28,7 @@
 
 ### About Me
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Full-Stack+Developer;3+years+of+programming+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Eager+Python+and+C%2B%2B+Developer;Full-Stack+Developer;6%2B+years+of+programming+experience" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
